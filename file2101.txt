@@ -1,0 +1,7 @@
+Employee ID:2101
+Employee Name     :Eduard
+Father's Name     :Ungureanu
+Employee Contact  :ceva@gmail.com
+Email Information :100
+Employee position :Leader
+Employee Salary   :8000

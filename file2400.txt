@@ -1,0 +1,8 @@
+
+Employee ID:2400
+Employee Name     :Dicoi
+Father's Name     :Darius
+Employee Contact  :0763923842134
+Email Information :500
+Employee position :manager
+Employee Salary   :3000
